@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: #FCA311;
+    color: rgba(0, 0, 0, 0.858);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height:60px;
+}
+
+
+

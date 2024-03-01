@@ -1,0 +1,12 @@
+#CardHeading{
+    color:white;
+}
+.CardContainer{
+  border: 2px solid #fca311;
+  border-radius: 20px;
+  height: 200px;
+  width: 166px;
+  text-align: center;
+  padding:6px;
+  margin-top: 10px;
+}

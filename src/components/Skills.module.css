@@ -1,0 +1,156 @@
+.skillsContainer{
+    height: 300px;
+    width: 55vw;
+    margin: auto;
+    margin-top: auto;
+    border: 3px solid #fca311;
+    margin-top: 100px;
+    border-radius: 42px;
+    color: white;
+    padding:30px;
+  }
+#skillHeading{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+.skillBar{
+    width:90%;
+    background-color: black;
+    border:2px solid rgb(255, 72, 0);
+    height:7px;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-right: 5px;
+}
+.skillPer{
+    width:85%;
+    background-color: rgb(255, 72, 0);
+    height:7px;
+    border-radius: 15px;
+}
+.skill{
+    display:flex;
+    margin-top: 24px;
+}
+.skillpercentage{
+    color:#fca311;
+    font-size: 16px;
+    font-weight: bold;
+}
+.skill2Bar{
+    width:90%;
+    background-color: black;
+    border:2px solid rgb(0, 128, 255);
+    height:7px;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+.skill2Per{
+    width:75%;
+    background-color: rgb(0, 128, 255);
+    height:7px;
+    border-radius: 15px;
+}
+.skill2percentage{
+    color:#fca311;
+    font-size: 16px;
+    font-weight: bold;
+}
+.skill2Name{
+   margin-right:16px;
+}
+.skill3Name{
+  margin-right: 30px;
+}
+.skill3Bar{
+    width:90%;
+    background-color: black;
+    border:2px solid #fca311;
+    height:7px;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+.skill3Per{
+    width:73%;
+    background-color: #fca311;
+    height:7px;
+    border-radius: 15px;
+}
+.skill3percentage{
+    color:#fca311;
+    font-size: 16px;
+    font-weight: bold;
+}
+.skill4Name{
+  margin-right: 7px;
+}
+.skill4Bar{
+    width:90%;
+    background-color: black;
+    border:2px solid #05b1b9;
+    height:7px;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+.skill4Per{
+    width:62%;
+    background-color: #05b1b9;
+    height:7px;
+    border-radius: 15px;
+}
+.skill4percentage{
+    color:#fca311;
+    font-size: 16px;
+    font-weight: bold;
+}
+.skill5Name{
+  margin-right: 32px;
+}
+.skill5Bar{
+    width:90%;
+    background-color: black;
+    border:2px solid #6800ff;
+    height:7px;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+.skill5Per{
+    width:87%;
+    background-color: #6800ff;
+    height:7px;
+    border-radius: 15px;
+}
+.skill5percentage{
+    color:#fca311;
+    font-size: 16px;
+    font-weight: bold;
+}
+.skill6Name{
+  margin-right: 13px;
+}
+.skill6Bar{
+    width:90%;
+    background-color: black;
+    border:2px solid #9211fc;
+    height:7px;
+    border-radius: 15px;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+.skill6Per{
+    width:81%;
+    background-color: #9211fc;
+    height:7px;
+    border-radius: 15px;
+}
+.skill6percentage{
+    color:#fca311;
+    font-size: 16px;
+    font-weight: bold;
+}
+
